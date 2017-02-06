@@ -30,5 +30,5 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock 
-   intensedebate_comments: true
-  
+intensedebate_comments: true
+theme: jekyll-theme-architect  
