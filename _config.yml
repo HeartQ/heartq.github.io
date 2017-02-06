@@ -29,4 +29,6 @@ gems:
   - jekyll-feed
 exclude:
   - Gemfile
-  - Gemfile.lock
+  - Gemfile.lock 
+   intensedebate_comments: true
+  
