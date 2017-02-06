@@ -1,9 +1,4 @@
----
-layout: post
-title:  "Jekyll和Github搭建个人静态博客"
-date:   
-categories: original
----## Welcome to MarkdownPad 2 ##
+
 
 **MarkdownPad** is a full-featured Markdown editor for Windows.
 
