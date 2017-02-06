@@ -8,7 +8,14 @@ categories: original
 **MarkdownPad** is a full-featured Markdown editor for Windows.
 
 ### Built exclusively for Markdown ###
-
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
 Enjoy first-class Markdown support with easy access to  Markdown syntax and convenient keyboard shortcuts.
 
 Give them a try:
