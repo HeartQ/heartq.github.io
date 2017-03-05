@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "project master"
+title:  "Product Manager"
 date:   2017-03-05 21:41:45 +0800
 categories: share
 ---
 
-Do the right thing ， do the best thing。
-
+Product Manager; Product Requirements
 
