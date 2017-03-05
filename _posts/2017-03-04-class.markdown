@@ -5,6 +5,16 @@ tags: TEST
 categories: original
 ---
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
+
 **班级信息管理系统**利用计算机进行学生信息管理，保证准确，无误，快速输出，利用计算机对有关信息进行查 询，检索迅速，查找方便，可靠性高，存储量大，保密性好。本课题针对便于学生信息管理 的问题而设计的一个管理系统。
 
 ##功能需求分析##

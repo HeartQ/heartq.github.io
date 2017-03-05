@@ -6,7 +6,9 @@ categories: share
 ---
 
 
-Product Manager
-Product Requirements
+Product Manager.
+
+Product Requirements.
+
 ![test]({{ site.url }}/assets/ser-5.jpg)
 

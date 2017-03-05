@@ -1,8 +1,18 @@
 ---
 layout: post
-title:  "Jekyll和Github搭建个人静态博客"
+title:  "Jekyll&Github"
 categories: original
 ---
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
 
 **MarkdownPad** is a full-featured Markdown editor for Windows.
 
