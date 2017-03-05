@@ -7,5 +7,5 @@ categories: share
 
 Product Manager
 Product Requirements
-！[picture](./ser-5.jpg)
+![test]({{ site.url }}/assets/ser-5.jpg)
 

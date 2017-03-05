@@ -52,7 +52,7 @@ Now the working there are
 
 ----------
 
-![预测]({{ site.url }}/assets/IMG_0266.jpg)
+![test]({{ site.url }}/assets/IMG_0266.JPG)
 
 ----------
 
