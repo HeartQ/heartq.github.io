@@ -5,6 +5,16 @@ date:   2017-03-05 21:41:45 +0800
 categories: share
 ---
 
+**PM's Dream**
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
 
 Product Manager.
 
