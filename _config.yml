@@ -6,9 +6,7 @@ permalink:           pretty
 # Setup
 title:               Study Notes
 tagline:             'A Jekyll theme'
-description: > # this means to ignore newlines until "baseurl:"
-Thanks for Github that sets the platform where I can embrace new techonology on.
-Such as Java , C/C++ ,Linux C ,J EE/SE , Data Structure.
+description:
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
