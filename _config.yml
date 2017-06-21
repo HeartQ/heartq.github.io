@@ -27,7 +27,6 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - PM‘s Study: "http://www.woshipm.com/"
-    - New3: "http://www.chinaipo.com/listed/?area=110000&p=80/“
     - Photo: "https://zh.clippingmagic.com/"
     - Slimilar: "https://www.similarweb.com/"
 # Image to show in the navigation bar - image must be a square (width = height)
